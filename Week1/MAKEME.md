@@ -8,7 +8,7 @@ Just reading articles and watching videos will not be enough to fully understand
 
 Let's start with some CLI practice:
 
-asdaodjsojasdasdasd
+asdaodjsojasdasdasdeft
 
 1. [bashcrawl](https://gitlab.com/slackermedia/bashcrawl#try-it-online-with-mybinder) - a game to learn the command line! Follow the instructions to create a `binder` and click on Terminal once in the `binder`. Play around and read the scrolls as they will explain things to you.
 
