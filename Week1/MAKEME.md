@@ -8,6 +8,8 @@ Just reading articles and watching videos will not be enough to fully understand
 
 Let's start with some CLI practice:
 
+asdaodjsoj
+
 1. [bashcrawl](https://gitlab.com/slackermedia/bashcrawl#try-it-online-with-mybinder) - a game to learn the command line! Follow the instructions to create a `binder` and click on Terminal once in the `binder`. Play around and read the scrolls as they will explain things to you.
 
 Then once you are more comfortable with using the CLI, have a go at the following practical exercises:
